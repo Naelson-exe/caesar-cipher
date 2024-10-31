@@ -24,5 +24,3 @@ def caesar_cipher(string, number)
   
   caesar_cipher.join  
 end
-
-puts "Hi"
